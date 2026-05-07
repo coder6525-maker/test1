@@ -1,1 +1,1 @@
-"Conflict Version"
+"main version"
